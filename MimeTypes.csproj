@@ -1,20 +1,20 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFrameworks>net45;net48;netcoreapp2.2;netstandard1.1;netcoreapp3.1;netstandard2.0;</TargetFrameworks>
-    <PackageId>MimeTypeMapOfficial</PackageId>
-    <Version>1.0.17</Version>
-    <Authors>Samuel Neff</Authors>
+    <PackageId>MimeTypeMap.NET4.5</PackageId>
+    <Version>1.0.18</Version>
+    <Authors>Yazan Kioumgi</Authors>
     <Company>Samuel Neff</Company>
     <Product>MimeTypeMap</Product>
-    <PackageProjectUrl>https://github.com/samuelneff/MimeTypeMap</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/ykioumgi/MimeTypeMap</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/samuelneff/MimeTypeMap/blob/master/LICENSE</PackageLicenseUrl>
     <Copyright>Samuel Neff 2017</Copyright>
     <PackageTags>C# ASP.NET</PackageTags>
-    <Description>Huge dictionary of file extensions to mime types</Description>
-    <AssemblyVersion>2.3.2.0</AssemblyVersion>
-    <FileVersion>2.3.2.0</FileVersion>
+    <Description>Huge dictionary of file extensions to mime types. Fork created to support .NET Framework 4.5.</Description>
+    <AssemblyVersion>2.3.3.0</AssemblyVersion>
+    <FileVersion>2.3.3.0</FileVersion>
 
-		<Authors>Samuel Neff</Authors>
+		<Authors>Yazan Kioumgi</Authors>
     <PackageTags>C#,ASP.NET,Mime</PackageTags>
   </PropertyGroup>
 </Project>

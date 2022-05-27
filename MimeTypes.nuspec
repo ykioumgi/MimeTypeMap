@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>MimeTypeMapOfficial</id>
-		<version>1.0.17</version>
-		<title>Mime Type Map Official</title>
-		<authors>Samuel Neff</authors>
-		<description>Mappings for mime types to extensions and back.</description>
-		<projectUrl>https://github.com/samuelneff/MimeTypeMap</projectUrl>
+		<id>MimeTypeMap.NET4.5</id>
+		<version>1.0.18</version>
+		<title>Mime Type Map .NET 4.5</title>
+		<authors>Yazan Kioumgi</authors>
+		<description>Mappings for mime types to extensions and back. Fork created to support .NET Framework 4.5.</description>
+		<projectUrl>https://github.com/ykioumgi/MimeTypeMap</projectUrl>
 		<license type="expression">MIT</license>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<tags>C# ASP.NET</tags>
